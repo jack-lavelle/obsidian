@@ -1,8 +1,5 @@
-# [[LeetCode]] Daily Challenges
+### ***Check If There is a Valid Partition for the Array***
 ___
-
-### August 13<sup>th</sup> - ***Check If There is a Valid Partition for the Array***
-
 **Summary**
 This problem is a rolling [[Dynamic Programming]] problem. The prompt is as follows:
 

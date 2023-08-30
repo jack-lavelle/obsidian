@@ -11,12 +11,8 @@
             "id": "8d720a2aed3a8208",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Challenges.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Challenges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Challenges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Daily Challenges.md"
-              }
+              "state": {}
             }
           },
           {
@@ -154,10 +146,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d720a2aed3a8208",
+  "active": "3d2ffea0b7fc4e90",
   "lastOpenFiles": [
-    "Dynamic Programming.md",
     "LeetCode.md",
-    "Daily Challenges.md"
+    "Dynamic Programming.md",
+    "Daily Challenges/August 13th.md",
+    "Daily Challenges"
   ]
 }
