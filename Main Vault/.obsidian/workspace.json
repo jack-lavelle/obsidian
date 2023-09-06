@@ -4,18 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "3905d6b3391cb553",
+        "id": "b8fbdcc0ae1eb38f",
         "type": "tabs",
         "children": [
           {
-            "id": "8d720a2aed3a8208",
+            "id": "49579427e4645b39",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
+          },
+          {
+            "id": "c16a47bad938e4e1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -44,7 +57,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#task",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +133,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md"
+              }
             }
           },
           {
@@ -146,11 +163,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d2ffea0b7fc4e90",
+  "active": "c16a47bad938e4e1",
   "lastOpenFiles": [
-    "LeetCode.md",
-    "Dynamic Programming.md",
-    "Daily Challenges/August 13th.md",
-    "Daily Challenges"
+    "Pasted image 20230905235558.png",
+    "Pasted image 20230905235516.png",
+    "Pasted image 20230905235511.png",
+    "Computer Science/Frontend Development/Plan of Study.md",
+    "Pasted image 20230905232928.png.md",
+    "Computer Science/Frontend Development/HTML/HTML Basics.md",
+    "Tasks.md",
+    "Pasted image 20230905232928.png",
+    "Computer Science/Frontend Development/HTML",
+    "Computer Science/Data Structures and Algorithms/Dynamic Programming.md",
+    "Computer Science/Frontend Development",
+    "Computer Science/Data Structures and Algorithms/Recursion.md",
+    "Computer Science/Data Structures and Algorithms",
+    "Projects",
+    "Projects/Skyrim Character Generator.md",
+    "Computer Science/Software Engineering Practices.md",
+    "Computer Science/Data Structures and Algorithms/Hash Table.md",
+    "LeetCode/Daily Challenges/LeetCode - Daily Challenge - Check If There is a Valid Partition for the Array.md",
+    "Computer Science",
+    "LeetCode/LeetCode.md",
+    "General Advice.md",
+    "LeetCode/NeetCode 150/Arrays and Hashing.md",
+    "recursive.md",
+    "LeetCode/NeetCode 150",
+    "LeetCode",
+    "LeetCode/Daily Challenges"
   ]
 }

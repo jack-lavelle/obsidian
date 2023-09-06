@@ -1,0 +1,1 @@
+- [ ]⏫ Checkboxes cannot become unselected.
