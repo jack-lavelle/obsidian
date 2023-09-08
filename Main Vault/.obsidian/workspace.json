@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
+                "file": "Computer Science/Frontend Development/Plan of Study.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
+                "file": "Computer Science/Frontend Development/Plan of Study.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md",
+                "file": "Computer Science/Frontend Development/Plan of Study.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,16 +134,8 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Computer Science/Frontend Development/HTML/HTML Basics.md"
+                "file": "Computer Science/Frontend Development/Plan of Study.md"
               }
-            }
-          },
-          {
-            "id": "209afd08afe9414b",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
             }
           }
         ]
@@ -165,12 +157,12 @@
   },
   "active": "c16a47bad938e4e1",
   "lastOpenFiles": [
+    "Computer Science/Frontend Development/HTML/HTML Basics.md",
     "Pasted image 20230905235558.png",
     "Pasted image 20230905235516.png",
     "Pasted image 20230905235511.png",
     "Computer Science/Frontend Development/Plan of Study.md",
     "Pasted image 20230905232928.png.md",
-    "Computer Science/Frontend Development/HTML/HTML Basics.md",
     "Tasks.md",
     "Pasted image 20230905232928.png",
     "Computer Science/Frontend Development/HTML",
