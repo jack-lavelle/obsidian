@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/NeetCode 150/Two Pointer.md",
+                "file": "Daily Log/September/Week 1.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/NeetCode 150/Two Pointer.md",
+                "file": "Daily Log/September/Week 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/NeetCode 150/Two Pointer.md",
+                "file": "Daily Log/September/Week 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/NeetCode 150/Two Pointer.md"
+                "file": "Daily Log/September/Week 1.md"
               }
             }
           }
@@ -148,10 +148,11 @@
   },
   "active": "c16a47bad938e4e1",
   "lastOpenFiles": [
+    "LeetCode/NeetCode 150/Two Pointers.md",
+    "LeetCode/NeetCode 150/Stacks.md",
     "LeetCode/NeetCode 150/Arrays and Hashing.md",
-    "LeetCode/NeetCode 150/Two Pointer.md",
-    "Projects/Skyrim Character Generator.md",
     "Daily Log/September/Week 1.md",
+    "Projects/Skyrim Character Generator.md",
     "Tasks.md",
     "images/Pasted image 20230905235558.png",
     "images/the-plan.png",
