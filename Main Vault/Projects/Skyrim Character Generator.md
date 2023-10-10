@@ -6,8 +6,6 @@ tags:
   - Python
   - Flask
 ---
-
-
 *Entry written on September 9th, 2023*
 
 The idea for the continuation of project is best introduced using the prototypical image:
@@ -17,13 +15,18 @@ There are quite a few things to consider with this and before I take on the actu
 
 #### Clean Code
 - [ ] #SCG #cleancode Need to rework a driver method for `render_template()`
-- [ ] #SCG #cleancode Unit testing.
-	- [ ] #SCG #cleancode Handle `previously_checked_properties` in constructor.
+- [ ] #SCG #cleancode #inprogress Unit testing.
+- [ ] #SCG #cleancode Handle `previously_checked_properties` in constructor.
+- [ ] #SCG #cleancode #inprogress Should only need one URL right now ... rework.
+- [x] #SCG #cleancode Add configuration properties file. ✅ 2023-09-17
+	Implement default values.
+
+https://stackoverflow.com/questions/14503973/python-global-keyword-vs-pylint-w0603
 #### Suggestions
 It is best that the ideas for this website come from not only me, but the internet and as such I will allow users (users which don't exist yet ...) to add suggestions to the website. Users will be able to vote on other suggestions, of which the top 5 will be shown on the website and they'll have the option to check for more.
 
 **Specific Tasks**
-- [ ] #SCG #suggestions Add ability to add your own suggestion.
+- [x] #SCG #suggestions Add ability to add your own suggestion. ✅ 2023-09-16
 - [ ] #SCG #suggestions Add ranking of already existing suggestions.
 - [ ] #SCG #suggestions Add view more button.
 

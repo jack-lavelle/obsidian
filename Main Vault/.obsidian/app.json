@@ -1,5 +1,7 @@
 {
   "readableLineLength": true,
   "showFrontmatter": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "images"
 }
