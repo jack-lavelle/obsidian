@@ -51,3 +51,9 @@ The Video Game Project
 Search the following image on Google for cool sheeet man
 
 ![[Pasted image 20231004142014.png]]
+
+Languages:
+German for kant, nietsche, hegel, etc
+Japanese for anime (pog)
+Chinese ni hao
+svenska since it is cool

@@ -51,7 +51,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/The Video Game Project.md",
+                "file": "Planning/List of Projects.md",
                 "mode": "source",
                 "source": false
               }
@@ -124,7 +124,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/The Video Game Project.md",
+                "file": "Planning/List of Projects.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/The Video Game Project.md",
+                "file": "Planning/List of Projects.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -164,7 +164,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/The Video Game Project.md"
+                "file": "Planning/List of Projects.md"
               }
             }
           },
@@ -197,10 +197,13 @@
   },
   "active": "ebf21994d5c8f67f",
   "lastOpenFiles": [
-    "Planning/Daily Planning and Log/October/Week 2.md",
-    "Projects/The Video Game Project.md",
-    "Planning/Daily Planning and Log/October/Week 1.md",
     "Projects/Nutrition Genome Project/Overview.md",
+    "Projects/Skyrim Character Generator.md",
+    "Projects/The Video Game Project.md",
+    "General Advice.md",
+    "images/Pasted image 20231017005758.png",
+    "Planning/Daily Planning and Log/October/Week 2.md",
+    "Planning/Daily Planning and Log/October/Week 1.md",
     "Projects/Nutrition Genome Project/Implementation Details/View Patient.md",
     "Projects/Nutrition Genome Project/Implementation Details/Untitled.md",
     "Projects/Nutrition Genome Project/Implementation Details",
@@ -221,9 +224,7 @@
     "LeetCode/NeetCode 150/Stacks.md",
     "LeetCode/NeetCode 150/Two Pointers.md",
     "LeetCode/NeetCode 150/Arrays and Hashing.md",
-    "Projects/Skyrim Character Generator.md",
     "Tasks.md",
-    "General Advice.md",
     "images/Pasted image 20230916011221.png",
     "Computer Science/Frontend Development/Plan of Study.md",
     "CSS-snippets/Untitled.md",
@@ -240,8 +241,6 @@
     "images/the-plan.png",
     "Computer Science/Frontend Development/HTML/HTML Basics.md",
     "Pasted image 20230905235558.png",
-    "Pasted image 20230905235516.png",
-    "Pasted image 20230905235511.png",
-    "Pasted image 20230905232928.png.md"
+    "Pasted image 20230905235516.png"
   ]
 }
