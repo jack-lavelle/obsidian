@@ -38,10 +38,24 @@
           {
             "id": "07fd7688efe15eab",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "ebf21994d5c8f67f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Projects/The Video Game Project.md",
                 "mode": "source",
                 "source": false
               }
