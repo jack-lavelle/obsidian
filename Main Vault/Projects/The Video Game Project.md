@@ -12,6 +12,10 @@ few teams outside of that rise and fall quite often.
 
 - [ ] move all ideas to here, categorize them, make them nice, etc.
 
+soul eater ep 1 for rewarding sound effects and good sound design
+
+![[Pasted image 20231017005758.png]]
+
 ![[Pasted image 20231024171745.png]]
 
 From ChatGPT
