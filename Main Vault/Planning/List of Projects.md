@@ -48,6 +48,8 @@ The Video Game Project
 			4) peasants
 		Everyone is continuously (depending on personality traits) trying to further themselves into higher being. The player will only encounter a dozen or so of these NPCs so 
 
+- [ ] the game does stuff when you are away (example changes in guilds, invasions, annexations, etc) ... could do this depending on how much time has passed since you last played.
+ 
 Search the following image on Google for cool sheeet man
 
 ![[Pasted image 20231004142014.png]]
