@@ -4,65 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "b8fbdcc0ae1eb38f",
+        "id": "5183ab3e35b1aa7b",
         "type": "tabs",
         "children": [
           {
-            "id": "a2586e0267c0be54",
+            "id": "2f8cfe9e621c12cc",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/NeetCode 150/Stacks.md",
+                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
                 "mode": "source",
                 "source": false
-              },
-              "pinned": true
+              }
             }
           },
           {
-            "id": "e0c54001303686af",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/NeetCode 150/Linked Lists.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "07fd7688efe15eab",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ebf21994d5c8f67f",
+            "id": "8acb870eb34920eb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/List of Projects.md",
+                "file": "LeetCode/Daily Challenges/Lessons Learned.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -91,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "documentation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
+                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
+                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md"
+                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md"
               }
             }
           },
@@ -178,7 +147,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -199,48 +170,51 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "07fd7688efe15eab",
+  "active": "2f8cfe9e621c12cc",
   "lastOpenFiles": [
+    "LeetCode/Daily Challenges/Lessons Learned.md",
+    "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
+    "Computer Science/Areas to Research.md",
+    "LeetCode/Daily Challenges/Dynamic Programming/Check If There is a Valid Partition for the Array.md",
+    "LeetCode/Daily Challenges/Dynamic Programming",
+    "LeetCode/NeetCode 150/Untitled.md",
+    "Journal/December 27th, 2023.md",
+    "Journal",
+    "Computer Science/resources/Binary Tree Scalability_ Iterative Solution.mhtml",
+    "Computer Science/resources",
+    "LeetCode/NeetCode 150/Trees.md",
+    "LeetCode/NeetCode 150/Stacks.md",
+    "Computer Science/Frontend Development/Plan of Study.md",
+    "Computer Science/Untitled.md",
+    "LeetCode/Template Solution.md",
+    "LeetCode/NeetCode 150/Sliding Window.md",
+    "LeetCode/NeetCode 150/Linked Lists.md",
+    "LeetCode/NeetCode 150/Binary Search.md",
+    "Projects/Nutrition Genome Project/Implementation Details/OLD - In Progress - Report Generation Overhaul (Implementation of NLP).md",
+    "Planning/List of Projects.md",
+    "Software Engineering Practices/Software Engineering Practices.md",
+    "Planning/Daily Planning and Log/December/Week 4.md",
+    "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
+    "Planning/Daily Planning and Log/December",
+    "Projects/Nutrition Genome Project/Nutrition Genome Planning.md",
+    "Projects/Nutrition Genome Project/Nutrition Genome Log.md",
+    "2024 Open Enrollment Notes.md",
     "Projects/Nutrition Genome Project/Overview.md",
     "Projects/Skyrim Character Generator.md",
     "Projects/The Video Game Project.md",
     "General Advice.md",
     "images/Pasted image 20231017005758.png",
-    "Planning/Daily Planning and Log/October/Week 2.md",
-    "Planning/Daily Planning and Log/October/Week 1.md",
-    "Projects/Nutrition Genome Project/Implementation Details/View Patient.md",
-    "Projects/Nutrition Genome Project/Implementation Details/Untitled.md",
     "Projects/Nutrition Genome Project/Implementation Details",
     "Projects/Nutrition Genome Project/ui-planning",
     "Projects/Nutrition Genome Project/New folder",
     "Projects/Nutrition Genome Project",
     "images/Pasted image 20231001231652.png",
     "images/Pasted image 20231004142014.png",
-    "LeetCode/NeetCode 150 Progress.md",
-    "LeetCode/NeetCode 150/Sliding Window.md",
-    "LeetCode/NeetCode 150/Binary Search.md",
-    "Planning/Daily Planning and Log/September/Week 2.md",
-    "Planning/Daily Planning and Log/September/Week 3.md",
     "Planning/Daily Planning and Log/October",
-    "LeetCode/NeetCode 150/Stacks.md",
-    "LeetCode/NeetCode 150/Two Pointers.md",
-    "LeetCode/NeetCode 150/Arrays and Hashing.md",
-    "Tasks.md",
     "images/Pasted image 20230916011221.png",
-    "Computer Science/Frontend Development/Plan of Study.md",
-    "CSS-snippets/Untitled.md",
-    "CSS-snippets/center-table.css",
-    "CSS-snippets/center-table.CSS",
-    "CSS-snippets/New Text Document.txt",
-    "CSS-snippets",
-    "Computer Science/Software Engineering Practices.md",
-    "Planning Log/Daily Planning/September/Week 2",
-    "Computer Science/Data Structures and Algorithms/Hash Table.md",
     "images/Pasted image 20230911105848.png",
-    "Planning Log/September/Week 1.md",
     "images/Pasted image 20230905235558.png",
     "images/the-plan.png",
-    "Computer Science/Frontend Development/HTML/HTML Basics.md",
     "Pasted image 20230905235558.png",
     "Pasted image 20230905235516.png"
   ]
