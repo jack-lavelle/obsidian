@@ -1,1 +1,0 @@
-- [ ] #leetcode Create a template solution.

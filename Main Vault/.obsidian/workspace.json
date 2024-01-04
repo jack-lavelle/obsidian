@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8acb870eb34920eb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LeetCode/Daily Challenges/Lessons Learned.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -172,12 +160,18 @@
   },
   "active": "2f8cfe9e621c12cc",
   "lastOpenFiles": [
+    "LeetCode/Daily Challenges/Recursion/2487 - Remove Nodes From Linked List.md",
+    "LeetCode/Template.md",
+    "LeetCode/NeetCode 150/Untitled.md",
+    "LeetCode/Operating Protocol.md",
+    "LeetCode/Daily Challenges/Protocol.md",
     "LeetCode/Daily Challenges/Lessons Learned.md",
+    "LeetCode/NeetCode 150/Linked Lists.md",
     "LeetCode/Daily Challenges/Dynamic Programming/1155 - Number of Dice Rolls With Target Sum.md",
+    "LeetCode/Daily Challenges/Recursion",
     "Computer Science/Areas to Research.md",
     "LeetCode/Daily Challenges/Dynamic Programming/Check If There is a Valid Partition for the Array.md",
     "LeetCode/Daily Challenges/Dynamic Programming",
-    "LeetCode/NeetCode 150/Untitled.md",
     "Journal/December 27th, 2023.md",
     "Journal",
     "Computer Science/resources/Binary Tree Scalability_ Iterative Solution.mhtml",
@@ -186,9 +180,7 @@
     "LeetCode/NeetCode 150/Stacks.md",
     "Computer Science/Frontend Development/Plan of Study.md",
     "Computer Science/Untitled.md",
-    "LeetCode/Template Solution.md",
     "LeetCode/NeetCode 150/Sliding Window.md",
-    "LeetCode/NeetCode 150/Linked Lists.md",
     "LeetCode/NeetCode 150/Binary Search.md",
     "Projects/Nutrition Genome Project/Implementation Details/OLD - In Progress - Report Generation Overhaul (Implementation of NLP).md",
     "Planning/List of Projects.md",
@@ -199,10 +191,6 @@
     "Projects/Nutrition Genome Project/Nutrition Genome Planning.md",
     "Projects/Nutrition Genome Project/Nutrition Genome Log.md",
     "2024 Open Enrollment Notes.md",
-    "Projects/Nutrition Genome Project/Overview.md",
-    "Projects/Skyrim Character Generator.md",
-    "Projects/The Video Game Project.md",
-    "General Advice.md",
     "images/Pasted image 20231017005758.png",
     "Projects/Nutrition Genome Project/Implementation Details",
     "Projects/Nutrition Genome Project/ui-planning",
@@ -210,7 +198,6 @@
     "Projects/Nutrition Genome Project",
     "images/Pasted image 20231001231652.png",
     "images/Pasted image 20231004142014.png",
-    "Planning/Daily Planning and Log/October",
     "images/Pasted image 20230916011221.png",
     "images/Pasted image 20230911105848.png",
     "images/Pasted image 20230905235558.png",

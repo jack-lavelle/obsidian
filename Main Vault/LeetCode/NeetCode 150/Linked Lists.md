@@ -1,6 +1,7 @@
 ## Easy Problems
 
 ### Reverse Linked List
+*Updated January 3rd, 2024 to include my original recursive solution.*
 
 Given the `head` of a singly linked list, reverse the list, and return _the reversed list_.
 
@@ -20,6 +21,30 @@ class Solution:
             curr = temp
 
         return prev
+```
+
+#### Recursive Solution
+```Python
+# Runtime: 94.83%
+# Memory: 18.11%
+class Solution:
+    def reverseList(self, head: Optional[ListNode]) -> Optional[ListNode]:
+        if not head: return None
+        if not head.next:
+            return head
+        second = self.recursive(head.next)
+        head.next = None
+        second.next = head
+        return self.last
+        
+    def recursive(self, node):
+        if not node.next:
+            self.last = node
+            return node
+        prev = self.recursive(node.next)
+        node.next = None
+        prev.next = node
+        return node
 ```
 ### Merge Two Sorted Lists
 
