@@ -1,12 +1,12 @@
 ## Timeline
-Title of Work Session - Month Day, Year
+Initial Approach - January 5th, 2024
 
-The problem summed up in one sentence.
-## Solution 1
+You are given an array of numbers and are asked to return the length of the longest increasing subsequence.
+## Representation of the Longest Increasing Subsequence
 
 ### High Level Understanding
 
-My high level explanation.
+
 ### Code
 #### Implementation
 ```Python
@@ -30,6 +30,3 @@ This is usually another answer than mine.
 ```Python
 This is the combination of my own thoughts and the solution I found.
 ```
-
-
-- [x] #leetcode Create a template. ✅ 2024-01-03

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasks.md",
+                "file": "Employment/Resume Planning.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tasks.md",
+                "file": "Employment/Resume Planning.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tasks.md",
+                "file": "Employment/Resume Planning.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tasks.md"
+                "file": "Employment/Resume Planning.md"
               }
             }
           },
@@ -160,8 +160,23 @@
   },
   "active": "2f8cfe9e621c12cc",
   "lastOpenFiles": [
-    "LeetCode/Daily Challenges/Recursion/2487 - Remove Nodes From Linked List.md",
+    "Employment/Sample Backend Java Engineer.md",
+    "Employment/Resume Planning.md",
+    "LeetCode/Daily Challenges/Dynamic Programming/300 - Longest Increasing Subsequence.md",
     "LeetCode/Template.md",
+    "Employment/Jobs.md",
+    "images/Pasted image 20240105234342.png",
+    "images/Pasted image 20240105234313.png",
+    "images/Pasted image 20240105234251.png",
+    "images/Pasted image 20240105234143.png",
+    "images/Pasted image 20240105234105.png",
+    "images/Pasted image 20240105234046.png",
+    "images/Pasted image 20240105234006.png",
+    "LeetCode/Daily Challenges/Recursion/2487 - Remove Nodes From Linked List.md",
+    "Employment/Untitled",
+    "Untitled",
+    "Employment",
+    "Tasks.md",
     "LeetCode/NeetCode 150/Untitled.md",
     "LeetCode/Operating Protocol.md",
     "LeetCode/Daily Challenges/Protocol.md",
@@ -186,23 +201,10 @@
     "Planning/List of Projects.md",
     "Software Engineering Practices/Software Engineering Practices.md",
     "Planning/Daily Planning and Log/December/Week 4.md",
-    "Projects/Nutrition Genome Project/Implementation Details/In Progress - Report Generation Overhaul (Implementation of NLP).md",
     "Planning/Daily Planning and Log/December",
-    "Projects/Nutrition Genome Project/Nutrition Genome Planning.md",
-    "Projects/Nutrition Genome Project/Nutrition Genome Log.md",
-    "2024 Open Enrollment Notes.md",
     "images/Pasted image 20231017005758.png",
     "Projects/Nutrition Genome Project/Implementation Details",
-    "Projects/Nutrition Genome Project/ui-planning",
-    "Projects/Nutrition Genome Project/New folder",
-    "Projects/Nutrition Genome Project",
     "images/Pasted image 20231001231652.png",
-    "images/Pasted image 20231004142014.png",
-    "images/Pasted image 20230916011221.png",
-    "images/Pasted image 20230911105848.png",
-    "images/Pasted image 20230905235558.png",
-    "images/the-plan.png",
-    "Pasted image 20230905235558.png",
-    "Pasted image 20230905235516.png"
+    "images/Pasted image 20231004142014.png"
   ]
 }
